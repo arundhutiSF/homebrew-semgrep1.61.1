@@ -2,7 +2,7 @@ class Semgrep < Formula
   desc "Static analysis for finding bugs and enforcing code standards"
   homepage "https://semgrep.dev/"
   url "https://github.com/returntocorp/semgrep/archive/v1.61.1.tar.gz"
-  sha256 "d90db9579ed82f8569aa24dfdb97e96a374ab10640cf73db53ad860b9ba2c314"
+  sha256 "dc57eb5c862e9bb38b159ba5825f7c02afe75b7f7dfab910a13a0ac580d3c930"
   license "LGPL-2.1-or-later"
 
   depends_on "ocaml" => :build
